@@ -1,0 +1,4 @@
+django
+djangorestframework
+reportlab
+psycopg2-binary
